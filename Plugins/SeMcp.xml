@@ -36,6 +36,6 @@ Transport: MCP Streamable HTTP (not SSE). POST JSON-RPC to http://localhost:9876
         <PackageReference Include="Microsoft.CodeAnalysis.CSharp" Version="5.0.0" />
     </NuGetReferences>
 
-    <Commit>26574d49d3e507886b7aaf235dda8a4b254cd691</Commit>
+    <Commit>5d51df6b7a8e91cc37f2ada0b3d4c241d4a5e377</Commit>
 
 </PluginData>

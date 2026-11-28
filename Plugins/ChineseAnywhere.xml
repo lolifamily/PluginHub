@@ -5,7 +5,7 @@
     <Id>09540800-AB40-476F-B4BC-A708CF797D96</Id>
 
     <!-- GitHub repository ID -->
-    <RepoId>lolifamily/ChineseAnywhere</RepoId>
+    <RepoId>lolimoddings/ChineseAnywhere</RepoId>
 
     <!-- The name of your plugin that will appear in the plugin list -->
     <FriendlyName>Chinese Anywhere</FriendlyName>
